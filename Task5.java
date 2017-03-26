@@ -1,7 +1,7 @@
 package codility;
 
 /**
- * Created by Валентина on 26.03.2017.
+ * Created by DmytroBartoshchuk on 26.03.2017.
  *
  * Task5. CountDiv
  *
