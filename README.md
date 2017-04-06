@@ -5,4 +5,5 @@ Task2. https://codility.com/programmers/lessons/4-counting_elements/missing_inte
 Task3. https://codility.com/programmers/lessons/4-counting_elements/frog_river_one/<br>
 Task4. https://codility.com/programmers/lessons/4-counting_elements/perm_check/<br>
 Task5. https://codility.com/programmers/lessons/5-prefix_sums/count_div/<br>
-Task6. https://codility.com/programmers/lessons/5-prefix_sums/passing_cars/
+Task6. https://codility.com/programmers/lessons/5-prefix_sums/passing_cars/<br>
+Task7. https://codility.com/programmers/lessons/7-stacks_and_queues/brackets/
